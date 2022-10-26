@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @AnkitGumaste
-- 👀 I’m interested in programs
-- 🌱 I’m currently learning c language
+- 👋 Hi, I’m Ankit Gumaste
 - 💞️ I’m looking to collaborate on anything interesting
-- 📫 How to reach me anku2112002@gmail.com
+- 📫 How to reach me ankitgumaste@gmail.com
 
 <!---
 AnkitGumaste/AnkitGumaste is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
