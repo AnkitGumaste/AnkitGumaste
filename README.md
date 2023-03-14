@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Ankit Gumaste
-- 💞️ I’m looking to collaborate on anything interesting
+- 👋 Hi, I’m Ankit Gumaste.
+- 🖍️ I'm currently pursuing Electronics and Communication, 6th sem.
+- 🧠An aspiring frontend vlsi engineer.
+- 💞️ I’m looking to collaborate on anything interesting.
 - 📫 How to reach me ankitgumaste@gmail.com
 
 <!---
