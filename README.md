@@ -10,7 +10,7 @@
 
 ---
 
-## `> Who AM I`
+## `Who AM I`
 
 ```vhdl
 entity Ankit_Gumaste is
@@ -18,8 +18,8 @@ entity Ankit_Gumaste is
     role       : out string := "RTL Design Engineer";
     focus      : out string := "Digital Signal Processing";
     languages  : out string := "VHDL · Python · Tcl";
-    tools      : out string := "Vivado · Quartus · ModelSim · Git";
-    status     : out string := "Synthesizing great ideas daily ⚡"
+    tools      : out string := "Vivado · MATLAB/Octave ";
+    status     : out string := "Turning ideas into Bitstream ⚡"
   );
 end Ankit_Gumaste;
 ```
@@ -49,7 +49,7 @@ end Ankit_Gumaste;
 
 ---
 
-## `> expertise`
+## `Expertise`
 
 ```
 RTL Design & Synthesis     ████████████████░░░░  Advanced
@@ -58,16 +58,16 @@ Tcl Automation             ██████████████░░░�
 Verification / Testbenches ████████░░░░░░░░░░░░  Basic
 ```
 
-## `> interests --deep-dive`
+## `Deep-dive`
 
 | Area | Details |
 |---|---|
 | 🔷 **FPGA Families** | Xilinx/AMD (Zynq) |
-| ⚡ **Design Focus** | Pipeline Architectures · FSMs · Application Development|
+| ⚡ **Design Focus** | Application Development · Pipeline Architectures · FSMs |
 | 🧰 **Automation** | Tcl scripting|
 ---
 
-## `> connect --social`
+## `connect`
 
 <div align="center">
 
