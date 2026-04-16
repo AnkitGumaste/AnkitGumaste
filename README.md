@@ -26,7 +26,7 @@ end Ankit_Gumaste;
 
 ---
 
-## `> skills`
+## `skills`
 
 <div align="center">
 
